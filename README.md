@@ -105,7 +105,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Kailane Morgado**
 - GitHub: https://github.com/KailaneMorgado
-- LinkedIn: https://www.linkedin.com/in/kailane-oliveira-reis-91b4b224a/
+- LinkedIn: https://www.linkedin.com/in/kailane-morgado/
 
 ## 🌟 Agradecimentos
 
