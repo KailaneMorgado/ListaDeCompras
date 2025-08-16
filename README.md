@@ -18,7 +18,7 @@ Este projeto é uma aplicação de desktop que permite aos usuários criar, edit
 
 
 
-!\[Interface do Aplicativo](print.jpg)
+[Interface do Aplicativo](print.jpg)
 
 
 
